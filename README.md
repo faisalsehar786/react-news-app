@@ -46,3 +46,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
+
+
+Prerequisites
+Make sure you have already installed Docker Engine. You don’t need to install Nginx or NPM, as both are provided by Docker images.
+
+$ docker -v
+Docker version 18.03.1-ce, build 9ee9f40
